@@ -18,7 +18,7 @@ Requirements: Make sure you have the requirend libraries installed. You should b
 pip install pygame moderngl pillow numpy noise
 
  
- 
+ ---
   
 Features:
 
