@@ -13,7 +13,9 @@ btw. This is the first version of this - it works how it should - but there are 
 <img width="2560" height="1080" alt="screenshot_20251206_170802" src="https://github.com/user-attachments/assets/a7e67388-0d56-4ea3-ace6-589e1c8e896a" />
 
 
-Requirements: Make sure you have the requirend libraries installed. You should be able to install using: pip install pygame moderngl pillow numpy noise
+Requirements: Make sure you have the requirend libraries installed. You should be able to install using console with the command:
+
+pip install pygame moderngl pillow numpy noise
 
 
 Features:
